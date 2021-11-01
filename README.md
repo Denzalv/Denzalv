@@ -12,7 +12,7 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,21 +20,23 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 50 mins        ██████████████████████░░░   89.77% 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     4 repos             ████████████████████░░░░░   80.0% 
-JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+HTML                     4 repos             ████████████████░░░░░░░░░   66.67% 
+JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
