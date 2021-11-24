@@ -20,14 +20,13 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JSX                      30 mins             ███████████████░░░░░░░░░░   60.08% 
-JavaScript               20 mins             ██████████░░░░░░░░░░░░░░░   39.92%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -41,7 +40,7 @@ JavaScript               3 repos             ██████████░�
 
 
 
- Last Updated on 23/11/2021
+ Last Updated on 24/11/2021
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
